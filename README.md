@@ -39,6 +39,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learnings 
+
+1. You will know the functioning of material ui 
+2. How we can customise MUI components according to our need 
+3. How to create sidebar content and addbar of a page 
+
+
+## Some images of page 
+
+![My Image](./Output_images/output1.png)
+![My Image](./Output_images/output2.png)
+![My Image](./Output_images/output3.png)
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
